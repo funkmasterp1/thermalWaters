@@ -3,7 +3,7 @@
 #support packages
 #dependencies
 #check m2 macs
-#req
+#req2
 from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
 
 api = SentinelAPI('user', 'password')
