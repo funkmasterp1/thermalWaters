@@ -1,7 +1,7 @@
 # %%
 
 #support packages
-#dependencies
+
 from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
 
 api = SentinelAPI('user', 'password')
