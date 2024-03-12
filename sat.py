@@ -1,5 +1,5 @@
 # %%
-#update sat mar1
+#update sat mar12
 from sentinelsat import SentinelAPI, read_geojson, geojson_to_wkt
 
 api = SentinelAPI('user', 'password')
